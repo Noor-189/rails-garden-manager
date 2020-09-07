@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+7a24ab8b6bab77da930af51c513b8cb0a27cf6fa refs/heads/dependabot/bundler/rack-2.2.3
+4a1c395620a3bd75b7e3a82ecfabef9023d0874d refs/heads/dependabot/npm_and_yarn/lodash-4.17.19
+2be7ef6651d8239d87cd3add6d1bb9aaed2af227 refs/heads/master
+1710234563d1d05384696f763e6c196f494d385a refs/heads/update-ruby
